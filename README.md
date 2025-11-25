@@ -26,11 +26,13 @@ Each part of the pipeline is validated using pytest
     - MAE: 4181 (predicts charges with an average error of $4181) 
     - RMSE: 5796 (typical deviation is around $5796)
     - R2: 0.7836 (explains 78.36% of the data)
- Predictive performance is reasonable but limited by non-linear relationships in the data.
+
+Predictive performance is reasonable but limited by non-linear relationships in the data.
   
 2) Random Forest (Stronger Model) 
     - MAE: 2558 (predicts charges with an average error of $2558)
     - RMSE: 4576 (typical deviation is around $4576)
     - R2: 0.8651 (explains 86.51% of the data
+
 Stronger model overall, captures interactions and non-linear structure in charges.
   
