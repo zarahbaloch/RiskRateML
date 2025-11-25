@@ -1,3 +1,5 @@
+# Health Insurance Pricing
+
 This project builds a workflow to predict health insurance charges using the insurance.csv dataset (Medical Cost Personal Dataset on Kaggle, https://www.kaggle.com/datasets/mirichoi0218/insurance). The repository includes a pipeline, modular code in src/, unit tests, and a final modeling notebook.
 
 **Notebook Overview** 
